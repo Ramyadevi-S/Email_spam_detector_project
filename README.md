@@ -36,5 +36,5 @@ The system is deployed using **Streamlit** and **Voilà**, allowing users to int
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ramyadevi-S/email-spam-detection-lstm.git
-   cd email-spam-detection-lstm
+   git clone https://github.com/Ramyadevi-S/Email_spam_detector_project.git
+   cd Email_spam_detector_project
